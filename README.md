@@ -1,6 +1,6 @@
 # ESP32-PICO-D4-RGB
 
-![image](https://github.com/andypiper/fivebyfive/blob/main/reference/ESP32-C3FH4-RGB-reference.jpeg)
+![image](https://github.com/01Space/ESP32-PICO-D4-RGB/tree/main/image)
 
 
 # CH340 USB to serial port driver
@@ -19,21 +19,6 @@ Install ESP32 Digital RGB LED Drivers and Adafruit NeoPixel via option tools / M
 
 Hold down B button on board, press R button and release again but keep on pressing B, trigger Arduino IDE to upload sketch, keep B pressed until Arduino IDE says that it's connected. Then you can release B button.
 
-Serial works with "CDC enable on boot" set to true.
-
-# Other branches
-
-fivebyfive-by Andy piper
-https://github.com/andypiper/fivebyfive
-
-wordle-device-Ciro Cattuto
-https://github.com/ccattuto/wordle-device
-
-# esp32c3-bling Series' Articles
-
-https://dev.to/andypiper/series/16659
-
-https://bigl.es/friday-fun-micro-weather-station/
 
 # Open Source / Contributors
 

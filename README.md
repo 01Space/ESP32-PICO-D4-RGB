@@ -1,6 +1,6 @@
 # ESP32-PICO-D4-RGB
 
-![image](https://github.com/01Space/ESP32-PICO-D4-RGB/tree/main/image)
+![image](https://github.com/01Space/ESP32-PICO-D4-RGB/blob/main/image/ESP32-PICO-D4-Page-1.drawio.png)
 
 
 # CH340 USB to serial port driver
